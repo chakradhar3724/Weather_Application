@@ -73,7 +73,8 @@ https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timel
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Chakradhar Peddavenkatagari
+**Chakradhar Peddavenkatagari**
+
 SRM University
