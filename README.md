@@ -75,5 +75,5 @@ https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timel
 
 👨‍💻 Author
 
-Chakradhar Reddy Peddavenkatagari
-AI / ML Engineer | Full Stack Developer
+Chakradhar Peddavenkatagari
+SRM University
