@@ -71,6 +71,8 @@ https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timel
 
 **Chakradhar Peddavenkatagari**
 
+Aspiring AI Engineer
+
 Bachelor's in Computer Science with Specialization in Cloud Computing
 
 SRM University, Chennai
