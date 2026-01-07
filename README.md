@@ -33,21 +33,15 @@ A modern, responsive **Weather Forecast Web Application** that provides real-tim
 ---
 
 ## 📁 Project Structure
-
+```
 Weather-Forecast
-
 │
-
 ├── index.html # Main HTML file
-
 ├── weather.css # Stylesheet
-
 ├── weather.js # JavaScript logic and API handling
-
 ├── icons/ # Weather icons
-
 └── README.md # Project documentation
-
+```
 
 ---
 
