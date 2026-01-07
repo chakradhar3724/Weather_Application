@@ -71,4 +71,6 @@ https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timel
 
 **Chakradhar Peddavenkatagari**
 
-SRM University
+Bachelor's in Computer Science with Specialization in Cloud Computing
+
+SRM University, Chennai
