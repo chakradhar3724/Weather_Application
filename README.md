@@ -1,29 +1,29 @@
-# 🌦️ Weather Forecast Web Application
+# Weather Forecast Web Application
 
 A modern, responsive **Weather Forecast Web Application** that provides real-time weather information, hourly updates, and weekly forecasts based on the user’s current location or searched city. The app dynamically adapts visuals and highlights key environmental metrics for a smooth and engaging user experience.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🌍 Automatic location detection using IP-based geolocation  
-- 🔍 City search with autocomplete suggestions  
-- 🌡️ Temperature unit conversion (°C / °F)  
-- ⏱️ Live date and time updates  
-- 📅 Hourly and weekly weather forecasts  
-- 🌤️ Dynamic weather icons and background images  
-- 📊 Today’s weather highlights:
+- Automatic location detection using IP-based geolocation  
+- City search with autocomplete suggestions  
+- Temperature unit conversion (°C / °F)  
+- Live date and time updates  
+- Hourly and weekly weather forecasts  
+- Dynamic weather icons and background images  
+- Today’s weather highlights:
   - UV Index with severity level  
   - Wind speed  
   - Sunrise & sunset timings  
   - Humidity with status indicator  
   - Visibility with condition status  
   - Air quality indicator  
-- 📱 Responsive UI for desktop and mobile devices  
+- Responsive UI for desktop and mobile devices  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** HTML5, CSS3, Vanilla JavaScript  
 - **Icons:** Font Awesome  
@@ -32,7 +32,7 @@ A modern, responsive **Weather Forecast Web Application** that provides real-tim
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 Weather-Forecast
 │
@@ -45,7 +45,7 @@ Weather-Forecast
 
 ---
 
-## ⚙️ How the Application Works
+## How the Application Works
 
 1. On page load, the application detects the user’s city using an IP-based geolocation API.
 2. Weather data is fetched from the **Visual Crossing Weather API**.
@@ -57,7 +57,7 @@ Weather-Forecast
 
 ---
 
-## 🔑 API Usage
+## API Usage
 
 The project uses the **Visual Crossing Weather API** to fetch weather data.
 
@@ -67,7 +67,7 @@ https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timel
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Chakradhar Peddavenkatagari**
 
